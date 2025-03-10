@@ -8,5 +8,11 @@ No terminal digitar os comandos
 - next, next, finish
 - cat /path/id_rsa.pub
 
+
+## Autor
+nome: Camargo
+turma: A
+
 ## Clone Repo
 - git clone <path-repo>
+
